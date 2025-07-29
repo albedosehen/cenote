@@ -1,0 +1,25 @@
+*
+!.github/
+!.github/**
+
+!docs/
+!docs/**
+
+!examples/
+!examples/**
+
+!src/
+!src/**
+
+!.gitignore
+!deno.json
+!deno.jsonc
+!deno.lock
+!LICENSE
+!CHANGELOG.md
+!README.md
+!main.ts
+
+# llm
+!AGENTS.md
+!.rooignore
