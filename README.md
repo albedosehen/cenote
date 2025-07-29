@@ -2,17 +2,10 @@
 
 ---
 
-Cenote is a powerful and flexible tool for managing your development workflow. With its intuitive interface and robust features, you can easily integrate Cenote into your existing projects and start reaping the benefits right away.
+Cenote is a web data extraction and processing framework designed to streamline the process of scraping, parsing, and indexing data from various sources. It provides a robust set of tools for developers to create custom data pipelines that can handle complex workflows.
 
-## Features
-
-- Easy integration with popular development tools
-- Customizable workflows to fit your team's needs
-- Comprehensive documentation and support
 
 ## Getting Started
-
-To get started with Cenote, simply use clone the repository and install the necessary dependencies. You can then run the provided examples to see how Cenote can help streamline your development process.
 
 ```bash
 cd cenote
