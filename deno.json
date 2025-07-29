@@ -2,7 +2,7 @@
 	"lock": true,
 
   "version": "0.0.1",
-  "description": "Cenote is a deep channel for pulling and shaping data hidden beneath the surface",
+  "description": "Cenote is a deep channel for pulling and shaping data hidden beneath the surface of the web.",
   "author": "Cenote Development Team",
   "license": "MIT",
   "repository": {
